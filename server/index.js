@@ -18,7 +18,7 @@ const corsOptions = {
     'http://localhost:5174',    // Vite alternative
     'http://127.0.0.1:3000',   // Localhost IP
     'http://127.0.0.1:5173',
-    'https://skillion-hackethon-r6st.vercel.app'
+    'https://skillion-hackethon-t9zp.vercel.app'
        // Vite IP
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
