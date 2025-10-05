@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
-import UserManagement from "./UserManagement";
+import UserManagement from "./userManagement";
 import CourseManagement from "./CourseManagement";
 import CreateCourse from "./CreateCourse";
 import MyCourses from "./MyCourses"; // Add this import
